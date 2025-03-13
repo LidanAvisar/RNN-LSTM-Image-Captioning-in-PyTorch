@@ -2,8 +2,6 @@
 An RNN-LSTM model for image captioning using PyTorch, mapping CNN-extracted features to text. Includes implementation from scratch, model training, and evaluation using BLEU scores.
 
 ## Overview
-This project is part of the Deep Learning course at Reichman University. It focuses on **Recurrent Neural Networks (RNNs)** and **Long Short-Term Memory (LSTM) networks** for sequence modeling and image captioning.
-
 This project implements an **RNN-based model** using **PyTorch** to generate captions for images. The model learns to map image features to sequences of words, using LSTMs to handle sequential dependencies.
 
 The project is divided into three main parts:
